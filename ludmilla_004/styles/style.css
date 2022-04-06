@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.banner {
+    background-color: #7e4d72;
+}
+
+.rodape {
+    background-color: #7e4d72;
+}
+
+.container-fluid {
+    background-color: #dbc9a7;
+}
+
+.bi-house-fill {
+    color: #7e4d72;
+}
+
+.bi-heart-fill {
+    color: #7e4d72;
+}
+
+.bi-calendar3 {
+    color: #7e4d72;
+}
+
+.bi-gem {
+    color: #7e4d72;
+}
+
+.bi-chat-quote-fill {
+    color: #7e4d72;
+}
+
+.bi-gear-fill {
+    color: #7e4d72;
+}
+
+#titulo {
+    color: #7e4d72;
+}
+
+#titulo2 {
+    color: #7e4d72;
+}
